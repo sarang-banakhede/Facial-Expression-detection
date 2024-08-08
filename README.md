@@ -17,7 +17,7 @@ The overall pipeline flow is as follows:
 -> The processed video frames, along with the detected faces and their corresponding emotional labels, are then presented as the final output of the pipeline.
 
 # How to use
--> To use this model, first install Requirments 
--> Then train the expression model (expression_train.py).
--> Then, download and install the dependencies of YOLOv7 and train the YOLOv7 model(yolo_train.py).
--> Finally, execute the main.ipynb file.
+### To use this model, first install Requirments 
+### Then train the expression model (expression_train.py).
+### Then, download and install the dependencies of YOLOv7 and train the YOLOv7 model(yolo_train.py).
+### Finally, execute the main.ipynb file.
